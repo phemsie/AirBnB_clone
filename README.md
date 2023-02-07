@@ -1,4 +1,4 @@
-irBnB clone - The console
+AirBnB clone - The console
 
 Foundations > Higher-level programming > AirBnB clone
 
