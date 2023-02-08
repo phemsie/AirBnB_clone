@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Module base_model
+Module base_model:
 Contains a Class that defines all common attributes or
 methods for other classes
 """
