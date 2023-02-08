@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Module base_model
+Module base_model:
 Contains a Class that defines all common attributes or
 methods for other classes
 """
@@ -13,7 +13,7 @@ import sys
 import os.path
 
 
-class BaseModel():
+class BaseModel()
     ''' a base class for other classes '''
 
     def __init__(self, *args, **kwargs):
