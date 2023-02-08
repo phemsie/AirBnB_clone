@@ -1,20 +1,3 @@
-
-AgeseVictor
-/
-AirBnB_clone
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-AirBnB_clone/console.py
-@AgeseVictor
-AgeseVictor grace
- 1 contributor
-Executable File  257 lines (234 sloc)  7.87 KB
 #!/usr/bin/python3
 import cmd
 import json
