@@ -13,7 +13,7 @@ import sys
 import os.path
 
 
-class BaseModel():
+class BaseModel()
     ''' a base class for other classes '''
 
     def __init__(self, *args, **kwargs):
