@@ -1,20 +1,3 @@
-
-IntrovertedTechie
-/
-AirBnB_clone
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-AirBnB_clone/tests/test_models/test_base_model.py
-@IntrovertedTechie
-IntrovertedTechie Airbnb
- 1 contributor
-Executable File  193 lines (162 sloc)  6.44 KB
 #!/usr/bin/python3
 """Unittest module for the BaseModel Class."""
 
