@@ -26,7 +26,7 @@ class TestFileStorage(unittest.TestCase):
         wr = os.access('models/engine/file_storage.py', os.W_OK)
         self.assertTrue(wr)
         ex = os.access('models/engine/file_storage.py', os.X_OK)
-        self.assertFalse(ex)
+        self.assertTrue(ex)
 
     def test_new(self):
         """
