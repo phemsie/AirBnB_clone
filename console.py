@@ -1,20 +1,3 @@
-
-IntrovertedTechie
-/
-AirBnB_clone
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-AirBnB_clone/console.py
-@IntrovertedTechie
-IntrovertedTechie Airbnb
- 1 contributor
-Executable File  219 lines (198 sloc)  7.29 KB
 #!/usr/bin/python3
 """Module for the entry point of the command interpreter."""
 
@@ -234,4 +217,3 @@ class HBNBCommand(cmd.Cmd):
 
 if __name__ == '__main__':
     HBNBCommand().cmdloop()
-
